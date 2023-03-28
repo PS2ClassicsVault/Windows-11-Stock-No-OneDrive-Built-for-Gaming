@@ -22,7 +22,7 @@ This build disables OneDrive from doing that such thing giving you the ability t
 
 ## Features: ##
 
-Not only we made this improvment we also made some tweaks for gaming so you do not hae to enable to tweak them manually such as the following:
+Not only we made this improvment we also made some tweaks for gaming so you do not have to enable to tweak them manually such as the following:
 
 - Variable GPU Scheduling (Hardware-accelerated GPU Scheduling)
 
