@@ -1,4 +1,4 @@
-# Windows-11 Pro 22H2 Stock No OnDrive for Gaming!
+# Windows-11 Pro 22H2 Stock No OnDrive for Gaming! #
 
 Welcome to the new Windows 11 Pro 22H2 this is not your ordinary version of windows this is built for those who want to keep it stock as possible but with a few gaming tweaks and ## OneDrive ## removed or disabled by default.
 
@@ -40,7 +40,7 @@ Not only we made this improvment we also made some tweaks for gaming so you do n
 
 ## System Requirements: ##
 
-CPU: Any CPU with x64 and Virtualization Technology Pre-Enabled in bios with TPM/Secure Boot Supported
+CPU: Any CPU with x64 bit support and Virtualization Technology Pre-Enabled in bios
 
 GPU: Any kind (if no dedicated GPU installed ensure your cpu has a integrated GPU)
 
@@ -48,7 +48,14 @@ RAM: 4GB
 
 Storage: 64GB (Most of the time uses 22.6GB of storage for the OS)
 
-TPM Specification: v2.0
+TPM Specification Required: v2.0
+
+Secure Boot Required: Yes
+
+System Firmware Required: UEFI
+
+USB Storage Required for Installer: 4.74GB
+
 
 ## WARNING: ##
 
@@ -58,3 +65,14 @@ TPM Specification: v2.0
 
 https://archive.org/download/windows-11-pro-no-onedrive-mod-x64.7z/Win11_Pro_No_OneDrive_Mod_x64.iso
 
+
+## FAQ: ##
+
+- QUESTION: Why is TPM & Secure Boot Still required in this build?
+
+ANSWER: We have not diabled this feature because it is required in order for Windows 11 to be stable as possible and act as if the OS was never altered, in our extensive testing we compared results from both a build with tpm and secure boot enabled VS a build that disables the requirements and have it off in our bios to simulate the pros and cons of them both. During our testing Windows 11 Pro without TPM/Secure boot enabled had issues that effected services and apps such as Xbox and caused issues such as not being able to properly detect if the drive selected fore game beyond defaults was empty or properly configured resulting the user to format that drive and lsoe any data stored into it for it to work, it seems certain services rely on tpm in order to function properly. With a build of WIndows 11 Pro with TPM/Secure boot enabled, We saw no such thing as issues affecting services witch was more promising so we went this route; However the build will not stop you if you do use rufus and choose the no tpm/secure boot option, therfore we cannot porovide support or take in reports if ypou go this route!
+
+
+- QUESTION: Will OneDrive still install even though it's disabled by default?
+
+ANSWER: Yes, though it gets auto installed by the MC store automatically, it will NOT auto enable or be enabled think of it as if it got hunted and shot by the virtual mafia and it's dead remains are still there never to be collected by the virtual police and only to be cleaned up by you, you can safely uninstall it in control panel; however if you're skeptical it will move the folders into the OneDrive folder such as we mentioned earlier in this readme, you can restrict permissions to that foler by going to "C:/Users/username" and look for the "OneDrive" folder, right click over the folder anc click "Properties" then go to the "Security" tab and edit the permissions and deny every single available user in the window then click "Apply" or "OK" to apply the settings and waring message may pop up warning you about removing previlidges but click yes to continue and then you are done click ok and windows nor apps can utilize that folder.
