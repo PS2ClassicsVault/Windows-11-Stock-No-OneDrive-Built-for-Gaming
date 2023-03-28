@@ -20,6 +20,8 @@ and your own microsoft account leaving it open to grab without your consent.
 
 This build disables OneDrive from doing that such thing giving you the ability to take action and prevent future issues.
 
+## Features: ##
+
 Not only we made this improvment we also made some tweaks for gaming so you do not hae to enable to tweak them manually such as the following:
 
 - Variable GPU Scheduling (Hardware-accelerated GPU Scheduling)
