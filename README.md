@@ -34,7 +34,7 @@ Not only we made this improvment we also made some tweaks for gaming so you do n
 
 -  Still have a drive filled with steam games etc and dont want to format your drive for steam etc to use it?...We included a new option in the context menu called "Take Ownership" witch allows you to transfer the ownership from the last pc or os install to your new OS install w/out the need of reinitializing the drive saving tons of time.
 
-⚠️WARNING:⚠️ We will never ask you to pay for this software, if they ask you to PAY do not pay them, this software is 100% free and if you obtained this software beyond this page/github it may not be genuine. Only obtain this version of WIndows 11 Pro from this github unless specified by us on where to obtain it. a Valid Windows 11 Pro activation key is required to either install or use this software, please purchase a key as we do not condone piracy of none genuine keys to activate this software!
+⚠️##WARNING:##⚠️ We will never ask you to pay for this software, if they ask you to PAY do not pay them, this software is 100% free and if you obtained this software beyond this page/github it may not be genuine. Only obtain this modified version of WIndows 11 Pro from this github unless specified by us on where to obtain it. a Valid Windows 11 Pro activation key is required to either install or use this software, please purchase a key as we do not condone piracy of none genuine keys to activate this software!
 
 ## !! More to be added to this !! ##
 
