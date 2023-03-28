@@ -34,7 +34,7 @@ Not only we made this improvment we also made some tweaks for gaming so you do n
 
 - NET 3.5, Direct Play & Virtual Machine Platform is pre-enabled and installed
 
-- Some bloatware has been removed such as Microsoft Office, News, Skype and more, however we have not removed pinned ad apps from start or windows so hey will still show, apps like xbox, mc store and basic apps are still included
+- Some bloatware has been removed such as Microsoft Office, News, Skype and more, however we have not removed pinned ad apps from start or windows so they will still show, apps like xbox, mc store and basic apps are still included
 
 -  Still have a drive filled with steam games etc and dont want to format your drive for steam etc to use it?...We included a new option in the context menu called "Take Ownership" witch allows you to transfer the ownership from the last pc or os install to your new OS install w/out the need of reinitializing the drive saving tons of time.
 
