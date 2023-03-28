@@ -59,7 +59,7 @@ USB Storage Required for Installer: 4.74GB
 
 ## WARNING: ##
 
-⚠️ We will never ask you to pay for this software, if they ask you to PAY do not pay them, this software is 100% free and if you obtained this software beyond this page/github it may not be genuine. Only obtain this modified version of WIndows 11 Pro from this github unless specified by us on where to obtain it. a Valid Windows 11 Pro activation key is required to either install or use this software, please purchase a key as we do not condone piracy of none genuine keys to activate this software!
+⚠️ We will never ask you to pay for this software, if they ask you to PAY do not pay them, this software is 100% free and if you obtained this software beyond this page/github it may not be genuine. Only obtain this modified version of Windows 11 Pro from this github unless specified by us on where to obtain it. A valid Windows 11 Pro activation key is required to either install or use this software, please purchase a key as we do not condone piracy of none genuine keys to activate this software!
 
 ## Download: ##
 
