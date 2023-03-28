@@ -1,6 +1,6 @@
 # Windows-11 Pro 22H2 Stock No OnDrive for Gaming! #
 
-Welcome to the new Windows 11 Pro 22H2 this is not your ordinary version of windows this is built for those who want to keep it stock as possible but with a few gaming tweaks and ## OneDrive ## removed or disabled by default.
+Welcome to the new Windows 11 Pro 22H2 this is not your ordinary version of windows this is built for those who want to keep it stock as possible but with a few gaming tweaks and OneDrive removed or disabled by default.
 
 # Introduction: #
 
